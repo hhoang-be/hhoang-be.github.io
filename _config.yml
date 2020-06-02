@@ -18,7 +18,7 @@ title: hhoang-be.github.io
 description: "Say it out loud"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+twitter_username: trunghieuhoang
 github_username:  hhoang-be
 
 # Build settings
